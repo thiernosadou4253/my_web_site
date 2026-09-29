@@ -3,3 +3,8 @@
     font-size: 24px;
     background-color: grey;
 }
+
+.para {
+    text-align: center;
+    font-family: monospace;
+}
